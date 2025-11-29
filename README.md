@@ -15,15 +15,22 @@ This project uses speech recognition and text-to-speech (TTS) to provide a hands
 
 - Wikipedia search with spoken summary
 
-- Open websites like Google, Facebook, YouTube
+- Open websites like Google, Facebook, YouTube ,linkedin, github
 
 - Play random music from a specified folder
 
-- Open system applications: Calculator, Notepad, CMD
+- Open system applications: Calculator, Notepad
 
 - Open Calendar (Google Calendar via browser)
 
 - Tell jokes and respond to basic small talk
+
+- can take screenshot.
+- Can update about weather
+- Enable to take note and save in text file.
+- Enable to read the note.txt file
+- newsportal (bangladesh news,International breaking news,tech ,sports)
+- can use GPT for replying unknow question.
 
 - Exit gracefully with a voice command
 
